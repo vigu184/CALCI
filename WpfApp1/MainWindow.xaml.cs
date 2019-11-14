@@ -45,7 +45,7 @@ namespace WpfApp1
 
         private void OperationButton_Click(object sender, RoutedEventArgs e)
         {
-            
+            System.Environment.Exit(1);
         }
 
         private void NumberButton_Click(object sender, RoutedEventArgs e)
